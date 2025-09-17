@@ -2,6 +2,18 @@
 title: Public Playground Catalog
 ---
 
+## About me
+
+Hi, I’m Brook Miller — I build and advise companies on applied AI and data products.
+
+- Founder, [Essential HCP](https://essentialhcp.com) — helping life science companies bring new products to market.
+- Founder, [Pianosa Insights](https://pianosainsights.com) — deep consumer insights from online conversations.
+- Fractional CTO / advisor — helping orgs build teams and capabilities to deliver AI products.
+- Adjunct Professor at Kellogg (Northwestern University) — Data and Data Systems for Business Leaders; Delivering ML Products.
+- Previously: CompE at Georgia Tech; Kellogg MBA; Product Management at Intel;
+
+Find me: [4brook.com](https://www.4brook.com/) · [LinkedIn](https://www.linkedin.com/in/brook-miller-cto/) · [X](https://x.com/brookmiller)
+
 ## Live Demos (served from `docs/`)
 
 - ChatGPT Usage Sunburst Chart
